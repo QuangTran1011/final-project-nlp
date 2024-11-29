@@ -1,0 +1,32 @@
+min_bert_layer_init:
+    Spearman's correlation of stsbenchmark_sts: 0.3048
+    Spearman's correlation of sickr_sts: 0.4065
+    Spearman's correlation of sts12_sts: 0.2421
+    Spearman's correlation of sts14_sts: 0.1086
+
+min_bert_layer_base:
+    Spearman's correlation of stsbenchmark_sts: 0.1325
+    Spearman's correlation of sickr_sts: 0.3396
+    Spearman's correlation of sts12_sts: 0.1858
+    Spearman's correlation of sts14_sts: 0.1285
+
+min_bert_layer_unsupervised_training:
+    Spearman's correlation of stsbenchmark_sts: 0.1992
+    Spearman's correlation of sickr_sts: 0.3437
+    Spearman's correlation of sts12_sts: 0.2165
+    Spearman's correlation of sts14_sts: 0.1380
+
+min_bert_layer_after_supervised_sli_training:
+    Spearman's correlation of stsbenchmark_sts: 0.4699
+    Spearman's correlation of sickr_sts: 0.5426
+    Spearman's correlation of sts12_sts: 0.5418
+    Spearman's correlation of sts14_sts: 0.3504
+
+
+min_bert_layer_after_supervised_qqp_triplet_training:
+    Spearman's correlation of stsbenchmark_sts: 0.5647
+    Spearman's correlation of sickr_sts: 0.5281
+    Spearman's correlation of sts12_sts: 0.4706
+    Spearman's correlation of sts14_sts: 0.4840
+
+    percentage: 0.7949940405244339
